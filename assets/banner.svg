@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Priscila Almeida</title>
+  <desc id="desc">Banner minimalista em areia e verde. De Pernambuco para novas possibilidades. Código, caminhos e descobertas.</desc>
+  <rect width="1200" height="360" rx="24" fill="#F5F2EA"/>
+  <rect x="28" y="28" width="1144" height="304" rx="12" fill="none" stroke="#D7D9CC"/>
+  <circle cx="66" cy="66" r="5" fill="#54715B"/>
+  <text x="84" y="72" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3" fill="#54715B">CÓDIGO, CAMINHOS &amp; DESCOBERTAS</text>
+  <text x="62" y="158" font-family="Georgia, 'Times New Roman', serif" font-size="65" fill="#253C30">Priscila Almeida</text>
+  <text x="65" y="203" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#59665A">De Pernambuco para novas possibilidades.</text>
+  <path d="M67 238 H595" stroke="#CED3C4"/>
+  <text x="65" y="278" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2" fill="#54715B">BRASILEIRA</text>
+  <circle cx="192" cy="273" r="2" fill="#A4AD9D"/>
+  <text x="211" y="278" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2" fill="#54715B">PERNAMBUCANA</text>
+  <circle cx="381" cy="273" r="2" fill="#A4AD9D"/>
+  <text x="400" y="278" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2" fill="#54715B">SEMPRE APRENDENDO</text>
+  <g fill="none" stroke="#54715B" stroke-width="1.6">
+    <circle cx="1001" cy="174" r="89" stroke="#D1D8C9"/>
+    <ellipse cx="1001" cy="174" rx="36" ry="89" stroke="#D1D8C9"/>
+    <path d="M914 154 H1088 M914 194 H1088" stroke="#D1D8C9"/>
+    <path d="M811 265 C823 195 933 291 1006 219 S1070 121 1111 105" stroke-dasharray="4 7"/>
+    <path d="m1100 101 22-7-9 22-4-10z" fill="#54715B" stroke-linejoin="round"/>
+  </g>
+  <rect x="824" y="129" width="122" height="83" rx="13" fill="#E8ECDF" transform="rotate(-9 885 170)"/>
+  <text x="850" y="184" font-family="monospace" font-size="36" fill="#3C5945" transform="rotate(-9 885 170)">&lt;/&gt;</text>
+  <path d="M1088 260 v16 m-8-8 h16" fill="none" stroke="#B18A52" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="814" cy="94" r="4" fill="#B18A52"/>
+</svg>
