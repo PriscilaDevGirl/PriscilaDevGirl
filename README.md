@@ -18,7 +18,7 @@
 
 ### Um pouco de mim
 
-🇧🇷 Brasileira, **pernambucana** e mãe de **Letícia e Laura**.
+🇧🇷 Brasileira, <img src="assets/pernambuco.svg" width="24" alt="Bandeira de Pernambuco" /> **pernambucana** e mãe de **Letícia e Laura**.
 
 💻 Apaixonada por programação, hoje atuo como **Arquiteta N4 em uma fábrica de software na Vivo**.
 
