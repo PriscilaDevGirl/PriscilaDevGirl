@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="100" viewBox="0 0 150 100" role="img" aria-label="Bandeira de Pernambuco">
+<rect width="150" height="100" fill="#fff"/><rect width="150" height="60" fill="#003DA5"/>
+<path d="M25 59a50 42 0 0 1 100 0" fill="none" stroke="#E52330" stroke-width="8"/>
+<path d="M33 59a42 34 0 0 1 84 0" fill="none" stroke="#FFDA00" stroke-width="8"/>
+<path d="M41 59a34 26 0 0 1 68 0" fill="none" stroke="#009A44" stroke-width="8"/>
+<path d="m75 3 2 6h6l-5 4 2 6-5-4-5 4 2-6-5-4h6z" fill="#FFDA00"/>
+<circle cx="75" cy="46" r="7" fill="#FFDA00"/>
+<path d="M75 35v-3m0 28v-3M64 46h-3m28 0h-3M67 38l-2-2m20 20-2-2m0-16 2-2M65 56l2-2" stroke="#FFDA00" stroke-width="2"/>
+<path d="M75 69v24M66 77h18" fill="none" stroke="#E52330" stroke-width="5"/>
+</svg>
